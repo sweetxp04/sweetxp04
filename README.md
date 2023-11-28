@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahidur_rahman
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on front-end web development
 - 📫 How to reach me https://www.linkedin.com/in/md-mahidur-rahman-5aa288198/ https://web.facebook.com/curiousface/
 
